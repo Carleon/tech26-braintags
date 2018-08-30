@@ -1,0 +1,24 @@
+{
+  "name": "tech26-braintags",
+  "version": "1.0.0",
+  "description": "Load your N26 bank transactions and train a neural network to identify categories and remap according to your special categories.",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "1.2.8",
+    "n26": "1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Carleon@github.com/Carleon/tech26-braintags.git"
+  },
+  "author": "Leonardo Carlesso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carleon/tech26-braintags/issues"
+  },
+  "homepage": "https://github.com/Carleon/tech26-braintags#readme"
+}
